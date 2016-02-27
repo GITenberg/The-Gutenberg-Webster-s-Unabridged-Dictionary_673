@@ -1,0 +1,22 @@
+_repo: The-Gutenberg-Webster-s-Unabridged-Dictionary_673
+creator:
+  author:
+    agent_name: Project Gutenberg
+    alias: Gutenberg, Project
+    gutenberg_agent_id: '114'
+    url: http://www.gutenberg.org/2009/agents/114
+description: HTML
+gutenberg_issued: '1996-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '673'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'English language -- Dictionaries'
+- !lcc 'PE'
+- !lcc 'AG'
+title: The Gutenberg Webster's Unabridged Dictionary
+url: http://www.gutenberg.org/ebooks/673
